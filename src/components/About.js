@@ -10,23 +10,23 @@ export default function About() {
             <br className="hidden lg:inline-block" /> Exploration,
             Entrepreneurship & Education.
           </h1>
-          <p className="mb-8 leading-relaxed">
+          {/* <p className="mb-8 leading-relaxed">
             I began my Javascript journey in September 2022 and have been
             building mini-web development since. I have over a decade of
             experience in International Education and project management on
             education programmes in the UK and overseas. I'm excited to learn
             many new technical skills and excited for a new challenge.
-          </p>
+          </p> */}
           <div className="flex justify-center">
             <a
               href="#contact"
-              className="inline-flex text-blue-400 bg-yellow-300 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-200 rounded text-lg"
+              className="inline-flex text-white bg-blue-400 border-0 py-2 px-6 focus:outline-none hover:bg-blue-200 rounded text-lg"
             >
               Work With Me
             </a>
             <a
               href="#projects"
-              className="ml-4 inline-flex text-blue-400 bg-yellow-300 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-200 rounded text-lg"
+              className="ml-4 inline-flex text-white bg-blue-400 border-0 py-2 px-6 focus:outline-none hover:bg-blue-200 rounded text-lg"
             >
               Explore my projects
             </a>

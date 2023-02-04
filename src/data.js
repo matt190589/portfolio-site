@@ -1,35 +1,39 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Circles",
+    subtitle: "Nextjs and Prisma",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://circlesapp.netlify.app/",
+    githubrepo: "https://github.com/SchoolOfCode/circles_app",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Fantasy Football Blog",
+    subtitle: "Nextjs",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://fantasy-football-blog.vercel.app/",
+    githubrepo: "https://github.com/matt190589/fantasy-football-blog",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Wordle",
+    subtitle: "React Native",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
+    githubrepo: "https://github.com/matt190589/wordle-on-react-native",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Reflectify",
+    subtitle: "React and PostgresSQL",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
+    githubrepo: "https://github.com/matt190589/Reflectify",
   },
 ];
 
