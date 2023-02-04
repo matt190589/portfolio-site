@@ -58,7 +58,9 @@ export const skills = [
   "JavaScript",
   "React",
   "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "ProgresSQL",
+  "React Native",
+  "Tailwind",
+  "Express.js",
+  "Cypress.io",
 ];
