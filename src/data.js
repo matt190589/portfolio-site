@@ -1,9 +1,9 @@
 export const projects = [
   {
     title: "Circles",
-    subtitle: "Nextjs and Prisma",
+    subtitle: "Nextjs, ProgresSQL and Tailwind",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Group project to provide an online App for users of the social prescription scheme. App Front-end and back-end hosted on Netlify.",
     image: "./project-1.gif",
     link: "https://circlesapp.netlify.app/",
     githubrepo: "https://github.com/SchoolOfCode/circles_app",
@@ -12,7 +12,7 @@ export const projects = [
     title: "Fantasy Football Blog",
     subtitle: "Nextjs",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Blog following the week to week changes in fantasy football. First full project with Nextjs, makedown file reading and deployed on vercel.",
     image: "./project-2.gif",
     link: "https://fantasy-football-blog.vercel.app/",
     githubrepo: "https://github.com/matt190589/fantasy-football-blog",
@@ -21,7 +21,7 @@ export const projects = [
     title: "Wordle",
     subtitle: "React Native",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Wordle clone built on React Native using Expo as a framework. UI built with 3D arrays and logic with react hooks. ",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
     githubrepo: "https://github.com/matt190589/wordle-on-react-native",
