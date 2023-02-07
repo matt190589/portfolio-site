@@ -10,13 +10,6 @@ export default function About() {
             <br className="hidden lg:inline-block" /> Exploration,
             Entrepreneurship & Education.
           </h1>
-          {/* <p className="mb-8 leading-relaxed">
-            I began my Javascript journey in September 2022 and have been
-            building mini-web development since. I have over a decade of
-            experience in International Education and project management on
-            education programmes in the UK and overseas. I'm excited to learn
-            many new technical skills and excited for a new challenge.
-          </p> */}
           <div className="flex justify-center">
             <a
               href="#contact"
