@@ -1,9 +1,12 @@
 import React from "react";
+import { useState } from "react";
+
+//replace this page with emailjs npm package
 
 export default function Contact() {
-  const [name, setName] = React.useState("");
-  const [email, setEmail] = React.useState("");
-  const [message, setMessage] = React.useState("");
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [message, setMessage] = useState("");
 
   function encode(data) {
     return Object.keys(data)
