@@ -2134,6 +2134,11 @@
     "isobject" "^3.0.0"
     "static-extend" "^0.1.1"
 
+"classnames@^2.2.5":
+  "integrity" "sha512-CSbhY4cFEJRe6/GQzIk5qXZ4Jeg5pcsP7b5peFSDpffpe1cqjASH/n9UTjBwOp6XpMSTwQ8Za2K5V02ueA7Tmw=="
+  "resolved" "https://registry.npmjs.org/classnames/-/classnames-2.3.2.tgz"
+  "version" "2.3.2"
+
 "clean-css@4.2.x":
   "integrity" "sha512-EJUDT7nDVFDvaQgAo2G/PJvxmp1o/c6iXLbswsBbUFXi1Nr+AjA2cKmfbKDMjMvzEe75g3P6JkaDDAKk96A85A=="
   "resolved" "https://registry.npmjs.org/clean-css/-/clean-css-4.2.4.tgz"
@@ -7425,7 +7430,7 @@
   dependencies:
     "asap" "~2.0.3"
 
-"prop-types@^15.5.10", "prop-types@^15.6.2", "prop-types@^15.8.1":
+"prop-types@^15.5.10", "prop-types@^15.5.8", "prop-types@^15.6.2", "prop-types@^15.8.1":
   "integrity" "sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg=="
   "resolved" "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz"
   "version" "15.8.1"
@@ -7633,10 +7638,22 @@
     "object-assign" "^4.1.1"
     "scheduler" "^0.20.2"
 
+"react-easy-swipe@^0.0.21":
+  "integrity" "sha512-OeR2jAxdoqUMHIn/nS9fgreI5hSpgGoL5ezdal4+oO7YSSgJR8ga+PkYGJrSrJ9MKlPcQjMQXnketrD7WNmNsg=="
+  "resolved" "https://registry.npmjs.org/react-easy-swipe/-/react-easy-swipe-0.0.21.tgz"
+  "version" "0.0.21"
+  dependencies:
+    "prop-types" "^15.5.8"
+
 "react-error-overlay@^4.0.1":
   "integrity" "sha512-xXUbDAZkU08aAkjtUvldqbvI04ogv+a1XdHxvYuHPYKIVk/42BIOD0zSKTHAWV4+gDy3yGm283z2072rA2gdtw=="
   "resolved" "https://registry.npmjs.org/react-error-overlay/-/react-error-overlay-4.0.1.tgz"
   "version" "4.0.1"
+
+"react-icons@^4.7.1":
+  "integrity" "sha512-yHd3oKGMgm7zxo3EA7H2n7vxSoiGmHk5t6Ou4bXsfcgWyhfDKMpyKfhHR6Bjnn63c+YXBLBPUql9H4wPJM6sXw=="
+  "resolved" "https://registry.npmjs.org/react-icons/-/react-icons-4.7.1.tgz"
+  "version" "4.7.1"
 
 "react-is@^16.13.1":
   "integrity" "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ=="
@@ -7652,6 +7669,15 @@
   "integrity" "sha512-xWGDIW6x921xtzPkhiULtthJHoJvBbF3q26fzloPCK0hsvxtPVelvftw3zjbHWSkR2km9Z+4uxbDDK/6Zw9B8w=="
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-18.2.0.tgz"
   "version" "18.2.0"
+
+"react-responsive-carousel@^3.2.23":
+  "integrity" "sha512-pqJLsBaKHWJhw/ItODgbVoziR2z4lpcJg+YwmRlSk4rKH32VE633mAtZZ9kDXjy4wFO+pgUZmDKPsPe1fPmHCg=="
+  "resolved" "https://registry.npmjs.org/react-responsive-carousel/-/react-responsive-carousel-3.2.23.tgz"
+  "version" "3.2.23"
+  dependencies:
+    "classnames" "^2.2.5"
+    "prop-types" "^15.5.8"
+    "react-easy-swipe" "^0.0.21"
 
 "react-scripts@*", "react-scripts@^1.1.5":
   "integrity" "sha512-ZXqnbg+kLRaacAkjuedMFTgKu9lNltMDDsuwn37CTV7X2tuZQmDKi08eI3LYvtpjqh5vm8/6BhwHRHkRtvMyJg=="
@@ -7709,7 +7735,7 @@
     "loose-envify" "^1.4.0"
     "prop-types" "^15.6.2"
 
-"react@^17.0.0 || ^18.0.0", "react@^17.0.2", "react@>= 16", "react@>=16.6.0", "react@>=16.8.0", "react@17.0.2":
+"react@*", "react@^17.0.0 || ^18.0.0", "react@^17.0.2", "react@>= 16", "react@>=16.6.0", "react@>=16.8.0", "react@17.0.2":
   "integrity" "sha512-gnhPt75i/dq/z3/6q/0asP78D0u592D5L1pd7M8P+dck6Fu/jJeL6iVVK23fptSUZj8Vjf++7wXA8UNclGQcbA=="
   "resolved" "https://registry.npmjs.org/react/-/react-17.0.2.tgz"
   "version" "17.0.2"
