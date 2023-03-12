@@ -14,7 +14,7 @@ export default function App() {
       <Navbar />
       <About />
       <Projects />
-      <CarouselItem />
+      {/* <CarouselItem /> */}
       <Skills />
       <Profile />
       <Contact />

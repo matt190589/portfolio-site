@@ -7,6 +7,7 @@ export const projects = [
     image: "/circles.png",
     link: "https://circlesapp.netlify.app/",
     githubrepo: "https://github.com/SchoolOfCode/circles_app",
+    url: "/circles.png",
   },
   {
     title: "Fantasy Football Blog",
@@ -16,6 +17,7 @@ export const projects = [
     image: "/fantasy_football_blog.png",
     link: "https://fantasy-football-blog.vercel.app/",
     githubrepo: "https://github.com/matt190589/fantasy-football-blog",
+    url: "/fantasy_football_blog.png",
   },
   {
     title: "Wordle",
@@ -25,6 +27,7 @@ export const projects = [
     image: "/wordle_react_native.png",
     link: "https://reactbootcamp.com",
     githubrepo: "https://github.com/matt190589/wordle-on-react-native",
+    url: "/wordle_react_native.png",
   },
   {
     title: "Reflectify",
@@ -34,6 +37,7 @@ export const projects = [
     image: "/personal_portfolio_site.png",
     link: "https://reactbootcamp.com",
     githubrepo: "https://github.com/matt190589/Reflectify",
+    url: "/personal_portfolio_site.png",
   },
 ];
 
