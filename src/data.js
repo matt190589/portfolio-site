@@ -4,10 +4,10 @@ export const projects = [
     subtitle: "Nextjs, ProgresSQL and Tailwind",
     description:
       "Group project to provide an online App for users of the social prescription scheme. App Front-end and back-end hosted on Netlify.",
-    image: "/circles.png",
+    image: "/Images/circles_large.png",
     link: "https://circlesapp.netlify.app/",
     githubrepo: "https://github.com/SchoolOfCode/circles_app",
-    url: "/circles.png",
+    url: "/Images/circles_large.png",
   },
   {
     title: "Fantasy Football Blog",
@@ -17,7 +17,7 @@ export const projects = [
     image: "/fantasy_football_blog.png",
     link: "https://fantasy-football-blog.vercel.app/",
     githubrepo: "https://github.com/matt190589/fantasy-football-blog",
-    url: "/fantasy_football_blog.png",
+    url: "/Images/ffblog_large.png",
   },
   {
     title: "Wordle",
@@ -27,7 +27,7 @@ export const projects = [
     image: "/wordle_react_native.png",
     link: "https://reactbootcamp.com",
     githubrepo: "https://github.com/matt190589/wordle-on-react-native",
-    url: "/wordle_react_native.png",
+    url: "/Images/wordle_large.png",
   },
   {
     title: "Reflectify",
@@ -37,7 +37,7 @@ export const projects = [
     image: "/personal_portfolio_site.png",
     link: "https://reactbootcamp.com",
     githubrepo: "https://github.com/matt190589/Reflectify",
-    url: "/personal_portfolio_site.png",
+    url: "/Images/portfolio_large.png",
   },
 ];
 
